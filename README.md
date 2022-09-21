@@ -28,8 +28,8 @@
 * pull request
   > ..
 
-[My Github Blog](https://github.com/choboss00)
-
+[My Github Blog](https://github.com/choboss00)  
+![image](./images/github.png)
 -------------
 ### Week3     Markdown
 * `monospace`
