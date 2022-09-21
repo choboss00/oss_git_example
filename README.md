@@ -1,39 +1,36 @@
 # **오픈소스SW개발론**
 
-### Introduction
+## Introduction
 
 -------------
 ### Week1-1 강의 개요 (강의계획서)
-* 이런내용
-* 저런내용
+* _Github_
+>[Github](https://github.com)
+* _Haskell_
+>[Haskell MOOC](https://haskell.mooc.fi)
 
 -------------
 ### Week1-2 오픈소스소프트웨어 개요
-* 이런내용
-* 저런내용
 
 -------------
 ### Week2-1 버전 관리 개요
-* 이런내용
-* 저런내용
-
 -------------
 ### Week2-2 Git
-* 이런내용
-* 저런내용
+* Git 상태 확인 명령어  
+>show, log, shortlog, diff, status  
 
-![Image] (그림.png)
-
+* add, commit
+> ..
 -------------
 ### Week2-3 Github, fork, pull request
-* 이런내용
-  > 그런데 이런거
-* 저런내용
-  > 그런데 저런거
+* fork
+  > ..
+* pull request
+  > ..
 
-[My Github Blog](https://github.com/kkanuseobin)
+[My Github Blog](https://github.com/choboss00)
 
 -------------
 ### Week3     Markdown
-* 이런내용
-* 저런내용
+* `monospace`
+* _italic_
